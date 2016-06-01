@@ -1,6 +1,7 @@
 # Game
 
 ## I Présentation
+```
 Jeux video d'arcade de sport, inspiré du tennis de table, le jeux pong se joura dans un premier temps à un joueur :
 
 Une raquette (à gauche de l'ecran) qui se deplace seulement de haut en bas, un mur invisible (à droite de l'ecran) et une balle. 
@@ -8,7 +9,7 @@ La raquette frappe la balle et rebondie contre le mur, à chaque fois que le jou
 
 Dans un second temps le jeux ce proposera un deuxieme joueurs, le but et d'envoyer la balle dans le camps adverse sans que l'adversaire
 puisse renvoyer la balle, dans ce cas un point sera accordé au joueurs.
-
+```
 ## II Itération / Planning
 ```
 Jeux PongV1 1 joueur
